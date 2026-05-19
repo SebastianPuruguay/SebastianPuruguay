@@ -1,35 +1,131 @@
-# ¡Hola! Soy [Tu Nombre] 🇵🇪 | Software Engineer & Data Specialist
+<h1 align="center">Hi, I'm Sebastian Puruguay 🇵🇪</h1>
 
-Soy Ingeniero de Software enfocado en la intersección del desarrollo de sistemas, la ciencia de datos y la Inteligencia Artificial. Me apasiona diseñar pipelines de datos eficientes, entrenar modelos de Machine Learning y crear visualizaciones (BI) que transformen datos caóticos en decisiones estratégicas de negocio.
+<h3 align="center">
+Software Engineer · Data Specialist · AI & Cloud Enthusiast
+</h3>
 
-Tengo un perfil híbrido: escribo código con estándares de producción de software ($O(N)$ optimizado, limpio y testeado) y aplico análisis predictivo avanzado.
+<p align="center">
+I build software, data pipelines, machine learning solutions and analytical tools that transform raw data into useful products, insights and decisions.
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com/demo/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=800&lines=Software+Engineering+%7C+Data+Science+%7C+AI;Building+data-driven+solutions;Turning+complex+problems+into+useful+systems" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Mi Stack Tecnológico:
+## 👨🏻‍💻 About Me
 
-* **Desarrollo de Software & APIs:** Python (FastAPI, Flask), JavaScript, SQL Server, PostgreSQL.
-* **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, EDA (Análisis Exploratorio).
-* **Business Intelligence & Analytics:** Power BI, Looker Studio, SQL Avanzado (Queries optimizadas, CTEs).
-* **AI & NLP:** Integración de LLMs (APIs de OpenAI/Gemini), LangChain, Vector Databases.
-* **Infraestructura & DevOps:** Git, GitHub Actions, Docker, Cloud (AWS/Azure).
+I am a **Software Engineer focused on Data, AI and Cloud solutions**, with experience designing systems that connect software development, analytics and machine learning.
+
+My work is centered on building practical and scalable solutions: from **APIs and databases** to **ML models, dashboards, automation pipelines and AI-powered assistants**.
+
+I enjoy working at the intersection of:
+
+- Software Engineering
+- Data Engineering
+- Machine Learning
+- Business Intelligence
+- Cloud Architecture
+- Applied AI and LLMs
+
+I like writing clean, maintainable and efficient code, but also understanding the business and operational context behind every solution.
 
 ---
 
-### 🚀 Proyectos Destacados:
+## 🛠️ Tech Stack
 
-#### 📂 [Pipeline ETL Automático y Almacenamiento SQL](url-de-tu-repo-1)
-* **Categorías:** *Data Engineering / SQL / Automatización*
-* Integración de APIs de marketing y finanzas en una base de datos local optimizada. Automatización diaria de ingesta mediante scripts.
+### Software Engineering & APIs
 
-#### 📊 [Dashboard Integral de KPIs de Negocio](url-de-tu-repo-2)
-* **Categorías:** *Business Intelligence / Data Analysis*
-* Creación de un modelo de datos estrella conectado a un dashboard interactivo en Power BI para monitorear el embudo de conversión (CAC, LTV, conversión).
+![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-1f2937?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-1f2937?style=for-the-badge&logo=flask)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=postgresql)
 
-#### 🤖 [Predictor de Fuga de Clientes (Churn) con ML](url-de-tu-repo-3)
-* **Categorías:** *Data Science / Machine Learning*
-* Análisis estadístico y entrenamiento de un modelo de clasificación (Random Forest) que predice qué usuarios cancelarán su suscripción, logrando un Score $F_1 > 0.85$.
+### Data Science & Machine Learning
 
-#### 🧠 [Asistente Virtual con IA y Datos de Negocio](url-de-tu-repo-4)
-* **Categorías:** *Inteligencia Artificial / NLP*
-* Chatbot inteligente construido con FastAPI y LangChain que utiliza la técnica de RAG (Generación Aumentada por Recuperación) para responder preguntas usando la base de datos interna de la empresa.
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch)
+
+### Databases, BI & Analytics
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-0f172a?style=for-the-badge&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql)
+![Power BI](https://img.shields.io/badge/Power_BI-0f172a?style=for-the-badge&logo=powerbi)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-0f172a?style=for-the-badge&logo=looker)
+
+### AI, Cloud & DevOps
+
+![OpenAI](https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-020617?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-020617?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-020617?style=for-the-badge&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-020617?style=for-the-badge&logo=googlecloud)
+
+---
+
+## 🚀 Featured Projects
+
+### 📂 Pipeline ETL Automático y Almacenamiento SQL
+
+**Data Engineering · SQL · Automation**
+
+Automated ETL pipeline designed to extract, transform and load data from external sources into a structured SQL database. Includes scheduled ingestion, data cleaning and optimized queries for analytical consumption.
+
+**Key areas:** Python, SQL Server, PostgreSQL, APIs, automation.
+
+[View repository](url-de-tu-repo-1)
+
+---
+
+### 📊 Dashboard Integral de KPIs de Negocio
+
+**Business Intelligence · Data Analysis · Decision Support**
+
+Development of an analytical data model and an interactive Power BI dashboard to monitor business performance indicators, conversion funnels and operational metrics.
+
+**Key areas:** Power BI, SQL, data modeling, DAX, KPI analysis.
+
+[View repository](url-de-tu-repo-2)
+
+---
+
+### 🤖 Predictor de Fuga de Clientes con Machine Learning
+
+**Machine Learning · Classification · Predictive Analytics**
+
+End-to-end machine learning project focused on predicting customer churn using statistical analysis, feature engineering and classification models.
+
+**Key areas:** Python, Pandas, Scikit-Learn, EDA, model evaluation.
+
+[View repository](url-de-tu-repo-3)
+
+---
+
+### 🧠 AI Business Assistant with RAG
+
+**Artificial Intelligence · NLP · LLM Applications**
+
+Intelligent assistant built with FastAPI and LangChain, using Retrieval-Augmented Generation to answer business questions based on internal structured and unstructured data.
+
+**Key areas:** FastAPI, LangChain, LLM APIs, vector databases, RAG.
+
+[View repository](url-de-tu-repo-4)
+
+---
+
+## 📌 Currently Learning
+
+I am currently strengthening my skills in:
+
+```txt
+Linux · AWS · Shell Scripting · MLOps · TensorFlow · JavaScript · Cloud Deployment
