@@ -71,57 +71,7 @@ I like writing clean, maintainable and efficient code, but also understanding th
 ![Azure](https://img.shields.io/badge/Azure-020617?style=for-the-badge&logo=microsoftazure)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-020617?style=for-the-badge&logo=googlecloud)
 
----
 
-## 🚀 Featured Projects
-
-### 📂 Pipeline ETL Automático y Almacenamiento SQL
-
-**Data Engineering · SQL · Automation**
-
-Automated ETL pipeline designed to extract, transform and load data from external sources into a structured SQL database. Includes scheduled ingestion, data cleaning and optimized queries for analytical consumption.
-
-**Key areas:** Python, SQL Server, PostgreSQL, APIs, automation.
-
-[View repository](url-de-tu-repo-1)
-
----
-
-### 📊 Dashboard Integral de KPIs de Negocio
-
-**Business Intelligence · Data Analysis · Decision Support**
-
-Development of an analytical data model and an interactive Power BI dashboard to monitor business performance indicators, conversion funnels and operational metrics.
-
-**Key areas:** Power BI, SQL, data modeling, DAX, KPI analysis.
-
-[View repository](url-de-tu-repo-2)
-
----
-
-### 🤖 Predictor de Fuga de Clientes con Machine Learning
-
-**Machine Learning · Classification · Predictive Analytics**
-
-End-to-end machine learning project focused on predicting customer churn using statistical analysis, feature engineering and classification models.
-
-**Key areas:** Python, Pandas, Scikit-Learn, EDA, model evaluation.
-
-[View repository](url-de-tu-repo-3)
-
----
-
-### 🧠 AI Business Assistant with RAG
-
-**Artificial Intelligence · NLP · LLM Applications**
-
-Intelligent assistant built with FastAPI and LangChain, using Retrieval-Augmented Generation to answer business questions based on internal structured and unstructured data.
-
-**Key areas:** FastAPI, LangChain, LLM APIs, vector databases, RAG.
-
-[View repository](url-de-tu-repo-4)
-
----
 
 ## 📌 Currently Learning
 
